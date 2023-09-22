@@ -1,0 +1,14 @@
+
+
+flutter_native_splash:
+    image: "assets/images/splash_screen.jpg"
+    color: "#ffffff"
+    android: true
+    ios: true
+    fill: true
+    ios_content_mode: scaleFill
+
+    android_12:
+        image: "assets/images/splash_screen.jpg"
+        color: "#ffffff"
+
